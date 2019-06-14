@@ -26,3 +26,12 @@ family <- merge(family_2011_sub, family_2016_sub,
 
 # Remove extra info
 family <- family[,-c(43, 45:49, 51, 53, 55:56)]
+
+# Rename 2016 columns
+colnames(family)[50:67] <- c("Families_2_persons", "Families_3_persons","Families_4_person",
+                             "Families_5_persons","Families_6+_persons", "Families_Total",
+                             "Persons_2_persons","Persons_3_persons",
+                             "Persons_4_persons","Persons_5_persons","Persons_6+_persons",
+                             "Persons_total","Children_2_persons","Children_3_persons",
+                             "Children_4_persons","Children_5_persons","Children_6+_persons",
+                             "Children_Total")
