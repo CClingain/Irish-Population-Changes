@@ -10,13 +10,13 @@ Given the family hypothesis for driving a larger vehicle, I'd like to understand
 
 ### Research Questions
 
-1) What are the changes in family size over time? (e.g., household size 5+ people)
-2) What are the patterns of car commuting?
+1) What are the changes in family size over time? (e.g., is there an increase in household size of 5+ people?)
+2) What are the patterns of car commuting across different geographical regions?
 
 
 ### Data Sources
 
-All data used in this project come from the Irish government's Open Data Portal. 
+All data used in this project come from the Irish government's [Open Data Portal](https://data.gov.ie/). 
 
 1. Families - [2011 Census](https://data.gov.ie/dataset/families-t4-sa) & [2016 Census](http://census2016.geohive.ie/datasets/families-family-members-and-children-in-families-by-size-of-family-small-areas-census-2016-theme-4-1-ireland-2016-cso-osi/data)
 2. Commuting Behaviors - [2011 Census](https://data.gov.ie/dataset/commuting-t11-sa) & [2016 Census](http://census2016.geohive.ie/datasets/population-aged-5+-by-means-of-travel-to-work-school-or-college-small-areas-census-2016-theme-11-1-ireland-2016-cso-osi/data)
