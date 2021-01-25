@@ -12,7 +12,7 @@ Given the family hypothesis for driving a larger vehicle, I'd like to understand
 
 1) What are the changes in family size over time? (e.g., is there an increase in household size of 5+ people?)
 2) What are the patterns of car commuting across different geographical regions?
-
+     
 
 ### Data Sources
 
