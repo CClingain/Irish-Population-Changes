@@ -21,3 +21,6 @@ All data used in this project come from the Irish government's [Open Data Portal
 1. Families - [2011 Census](https://data.gov.ie/dataset/families-t4-sa) & [2016 Census](http://census2016.geohive.ie/datasets/families-family-members-and-children-in-families-by-size-of-family-small-areas-census-2016-theme-4-1-ireland-2016-cso-osi/data)
 2. Commuting Behaviors - [2011 Census](https://data.gov.ie/dataset/commuting-t11-sa) & [2016 Census](http://census2016.geohive.ie/datasets/population-aged-5+-by-means-of-travel-to-work-school-or-college-small-areas-census-2016-theme-11-1-ireland-2016-cso-osi/data)
 
+Shapes files for the 2011 Census can be found on the [Central Statistics Office's website](https://www.cso.ie/en/census/census2011boundaryfiles/).
+
+**Note: There are issues downloading the data from data.gov.ie using Google Chrome. Use another browser to download the data.**
